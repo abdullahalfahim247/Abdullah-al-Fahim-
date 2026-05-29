@@ -1,0 +1,6 @@
+{
+  "name": "Income Tracker",
+  "description": "An elegant, premium, modern personal finance tracker application with robust offline storage, interactive analytics, and report export features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
